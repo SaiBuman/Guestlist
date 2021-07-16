@@ -1,0 +1,12 @@
+#submit_button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(rgb(255, 0, 85),);
+}
+
+#sort_button {
+  display: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(255, 0, 85);
+}
